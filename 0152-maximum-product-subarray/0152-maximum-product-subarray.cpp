@@ -13,6 +13,6 @@ public:
             ans= max(ans, max(pre,suf) );
             
         }
-        return ans;
+        return (int)ans;
     }
 };
