@@ -19,8 +19,7 @@ int longestCommonSubsequence(string text1, string text2) {
     }
 public:
     int minDistance(string word1, string word2) {
-        int a= word1.size()- longestCommonSubsequence(word1, word2);
-        int b= word2.size()- longestCommonSubsequence(word1,  word2);
-        return a+b;
+        
+        return word1.size()- longestCommonSubsequence(word1, word2) +word2.size()- longestCommonSubsequence(word1,  word2);
     }
 };
