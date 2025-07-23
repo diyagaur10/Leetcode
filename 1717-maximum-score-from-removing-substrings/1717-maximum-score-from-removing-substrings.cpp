@@ -1,36 +1,31 @@
 class Solution {
 public:
     int maximumGain(string s, int x, int y) {
-        int totalPoints = 0;
+        // Helper function to remove target pairs and return points earned
+        auto removePair = [](string& s, char first, char second, int score) {
+            string temp = "";
+            int points = 0;
+            for (char c : s) {
+                if (!temp.empty() && temp.back() == first && c == second) {
+                    temp.pop_back();  // remove first
+                    points += score;
+                } else {
+                    temp.push_back(c);
+                }
+            }
+            s = temp;  // Update the string with the remaining characters
+            return points;
+        };
 
-        // Determine the order of removal based on points
-        if (x > y) {
-            totalPoints += removeAndCount(s, "ab", x);
-            totalPoints += removeAndCount(s, "ba", y);
+        int totalPoints = 0;
+        if (x >= y) {
+            totalPoints += removePair(s, 'a', 'b', x);
+            totalPoints += removePair(s, 'b', 'a', y);
         } else {
-            totalPoints += removeAndCount(s, "ba", y);
-            totalPoints += removeAndCount(s, "ab", x);
+            totalPoints += removePair(s, 'b', 'a', y);
+            totalPoints += removePair(s, 'a', 'b', x);
         }
 
         return totalPoints;
-    }
-
-private:
-    int removeAndCount(string &s, const string &pattern, int points) {
-        int count = 0;
-        string result;
-        
-        for (char c : s) {
-            result.push_back(c);
-            if (result.size() >= 2 && result[result.size() - 2] == pattern[0] && result.back() == pattern[1]) {
-                result.pop_back();
-                result.pop_back();
-                count += points;
-            }
-        }
-
-        // Update s with the remaining string after removal
-        s = result;
-        return count;
     }
 };
