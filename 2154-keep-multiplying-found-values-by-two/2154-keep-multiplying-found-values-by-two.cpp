@@ -5,10 +5,10 @@ public:
         for(int i = 0; i<nums.size(); i++){
             if(nums[i]== original){
                 original = original * 2;
-                
+                i= -1;
             }
             else continue;
-            i= -1;
+            
         }
         return original;
     }
