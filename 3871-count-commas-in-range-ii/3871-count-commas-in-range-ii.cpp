@@ -14,7 +14,7 @@ public:
 
         long long start = 1;
 
-        for (int len = 1; len <= 18; len++) {
+        for (int len = 4; len <= 18; len++) {
             long long end = start * 10 - 1;
 
             if (start > n) break;
