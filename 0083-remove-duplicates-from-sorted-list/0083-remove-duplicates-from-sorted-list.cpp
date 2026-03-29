@@ -11,12 +11,16 @@
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
+        int hasharr[202] = {0};
         ListNode* temp = head;
         while(temp != NULL && temp->next != NULL){
-            if(temp->next->val == temp->val){
+            
+            if(temp->val == temp->next->val){
+
                 temp->next = temp->next->next;
             }
-            else temp= temp->next;
+            else
+                temp=temp->next;
         }
         return head;
     }
