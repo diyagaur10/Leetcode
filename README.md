@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0228-summary-ranges](https://github.com/diyagaur10/Leetcode/tree/main/0228-summary-ranges/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/diyagaur10/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/diyagaur10/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -28,5 +29,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/diyagaur10/Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0821-shortest-distance-to-a-character](https://github.com/diyagaur10/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/diyagaur10/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0821-shortest-distance-to-a-character](https://github.com/diyagaur10/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 <!---LeetCode Topics End-->
