@@ -30,9 +30,11 @@
 | ------- | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/diyagaur10/Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/diyagaur10/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/diyagaur10/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/diyagaur10/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0821-shortest-distance-to-a-character](https://github.com/diyagaur10/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/diyagaur10/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->
