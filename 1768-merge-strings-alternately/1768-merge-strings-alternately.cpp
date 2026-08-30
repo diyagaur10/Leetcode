@@ -1,23 +1,28 @@
 class Solution {
 public:
     string mergeAlternately(string word1, string word2) {
-        int p1 = 0, p2 = 0;
-        string ans = "";
-        while(p1 < word1.size() && p2 < word2.size()){
-            ans.push_back(word1[p1]);
-            p1++;
-            ans.push_back(word2[p2]);
-            p2++;
-        }
-        while (p1 < word1.size()) {
-            ans.push_back(word1[p1++]);
+        string s;
+
+        int len1 = word1.length();
+        int len2 = word2.length();
+        int i = 0;
+
+        while (i < len1 && i < len2) {
+            s += word1[i];
+            s += word2[i];
+            i++;
         }
 
-        // Agar word2 lamba hai
-        while (p2 < word2.size()) {
-            ans.push_back(word2[p2++]);
+        while (i < len1) {
+            s += word1[i];
+            i++;
         }
-            return ans;
-        
+
+        while (i < len2) {
+            s += word2[i];
+            i++;
+        }
+
+        return s;
     }
 };
