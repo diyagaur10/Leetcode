@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/diyagaur10/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0228-summary-ranges](https://github.com/diyagaur10/Leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/diyagaur10/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/diyagaur10/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -37,4 +38,8 @@
 | ------- | ------- |
 | [0821-shortest-distance-to-a-character](https://github.com/diyagaur10/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/diyagaur10/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/diyagaur10/Leetcode/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
