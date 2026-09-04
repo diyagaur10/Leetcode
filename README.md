@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/diyagaur10/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0228-summary-ranges](https://github.com/diyagaur10/Leetcode/tree/main/0228-summary-ranges/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/diyagaur10/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/diyagaur10/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/diyagaur10/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Math
@@ -42,4 +43,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/diyagaur10/Leetcode/tree/main/0001-two-sum/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/diyagaur10/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/diyagaur10/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/diyagaur10/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
