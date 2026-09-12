@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/diyagaur10/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0228-summary-ranges](https://github.com/diyagaur10/Leetcode/tree/main/0228-summary-ranges/) | Easy |
+| [0283-move-zeroes](https://github.com/diyagaur10/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/diyagaur10/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/diyagaur10/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/diyagaur10/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -31,6 +32,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/diyagaur10/Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0283-move-zeroes](https://github.com/diyagaur10/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/diyagaur10/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/diyagaur10/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/diyagaur10/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
