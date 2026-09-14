@@ -14,6 +14,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/diyagaur10/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/diyagaur10/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [3870-count-commas-in-range](https://github.com/diyagaur10/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/diyagaur10/Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -32,6 +33,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/diyagaur10/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/diyagaur10/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/diyagaur10/Leetcode/tree/main/0231-power-of-two/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +81,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/diyagaur10/Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/diyagaur10/Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
