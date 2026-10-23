@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/diyagaur10/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/diyagaur10/Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0821-shortest-distance-to-a-character](https://github.com/diyagaur10/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0860-lemonade-change](https://github.com/diyagaur10/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/diyagaur10/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -92,4 +93,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/diyagaur10/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0860-lemonade-change](https://github.com/diyagaur10/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 <!---LeetCode Topics End-->
