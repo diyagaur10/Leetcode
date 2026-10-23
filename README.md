@@ -97,4 +97,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0860-lemonade-change](https://github.com/diyagaur10/Leetcode/tree/main/0860-lemonade-change/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0584-find-customer-referee](https://github.com/diyagaur10/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
 <!---LeetCode Topics End-->
